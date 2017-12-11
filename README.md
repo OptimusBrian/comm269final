@@ -1,10 +1,16 @@
 # comm269final
 Final Project Github
+
 Purpose of the Site
+
 The Maple Grove Diner website is designed with potential customers in mind. It will contain the information that a user would want to know prior to going to a diner. The menu tab will provide a list of items to order, their prices, and a brief description of them. The about tab explains the history of the Maple Grove Diner. The locations tab has a map with points of all of the diner locations in the Rochester area, along with listing the official addresses. The contacts tab lists phone numbers, hours of operation, and emails addresses. The join tab offers information on employment, including a link to an application, along with information about membership and special events.
+
 Audience of the Site
-	The intended audience of the site is adults, age 18 and older. It is for natives and visitors to the Rochester area. While the pages will have a visual and colorful flair to them, children are not the audience in focus. Once an adult has a look at the site, the restaurant itself is welcome to children but not necessarily the site itself. The site will serve those who are interested in visiting a local restaurant chain, outside of the typical chains and want something new. Most likely they would view the website to get a feel for the type of restaurant it is. The site is intended to evoke the aesthetic of maple trees due to the basis of the restaurant, and hopefully that will entice users to visit. Users may find out about our site via Yelp, Grubhub, or searching for local restaurants on Google. They will come to the site largely to find locations and to see the menu and hours. With a family-friendly goal in mind, we intend to appeal to parents and family groups. 
+
+The intended audience of the site is adults, age 18 and older. It is for natives and visitors to the Rochester area. While the pages will have a visual and colorful flair to them, children are not the audience in focus. Once an adult has a look at the site, the restaurant itself is welcome to children but not necessarily the site itself. The site will serve those who are interested in visiting a local restaurant chain, outside of the typical chains and want something new. Most likely they would view the website to get a feel for the type of restaurant it is. The site is intended to evoke the aesthetic of maple trees due to the basis of the restaurant, and hopefully that will entice users to visit. Users may find out about our site via Yelp, Grubhub, or searching for local restaurants on Google. They will come to the site largely to find locations and to see the menu and hours. With a family-friendly goal in mind, we intend to appeal to parents and family groups. 
+
 Usability Testing
+
 Questions Asked:
 
 Can you find the hours?
