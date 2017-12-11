@@ -1,0 +1,307 @@
+  body{
+background-image:url(../Images/woodback.jpg);
+background-repeat:no-repeat;
+background-size:cover; 
+font-family: 'Fira Sans', sans-serif;
+}
+
+html{
+    margin:0;
+    padding:0;
+    
+}
+
+@media only screen and (min-width:300px){
+    
+    #wrapper {
+  display: grid;
+  grid-template-columns: 1fr 5px;
+  grid-template-rows: repeat(9,50px 5px);
+    
+
+}
+
+
+.box{
+  
+    margin:5px;
+    
+    }
+    .a{
+    grid-column:1/6;
+    grid-row: 1/16;
+    min-height: 200px;
+    background-image: url(../Images/leaves.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 15px;    
+   
+}
+
+     #img1{
+        text-align: center;
+            
+        }
+ 
+ .b{
+    grid-column:1/6;
+    grid-row: 16/25;
+   background-position: 75% 50%;
+    
+    
+     
+   
+}
+    
+    
+ .fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}      
+      
+    
+    
+        #img1{
+            
+            text-align: center;
+            
+        }    
+    
+    
+    .c{
+    grid-column:1/6;
+    grid-row: 26/27;
+    background-color: tan;
+    padding-left: 5px;
+    padding-right: 5px;    
+  
+}
+    
+    
+    
+ .d{
+    grid-column:1/6;
+    grid-row: 27/28;
+    background-color: tan;
+    max-width: 700px;
+    padding-left: 30px;
+    font-size: 20px;
+    text-align: left;
+    padding-right: 30px; 
+  
+     
+   
+}       
+footer{
+    min-height: 20px;
+    background-color:8A1D07;
+   
+    
+}
+   
+  
+  
+    
+    
+@media only screen and (min-width:450px){
+    
+    #wrapper {
+  display: grid;
+ 
+  grid-template-columns: repeat(2, 1fr 5px);
+  grid-template-rows: repeat(5,100px 5px);
+    
+
+}
+
+.box{
+    min-height:100px;
+    margin:5px;
+    padding-top: 10px;
+
+   
+}
+
+
+    .a{
+    grid-column:1/6;
+    grid-row: 1/9;
+    min-height: 200px;
+    background-image: url(../Images/leaves.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+   
+}
+.b{
+    grid-column:1/6;
+    grid-row:9/12;
+    
+    
+     
+   
+}
+    
+ .fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}      
+      
+    
+        #img1{
+            
+            text-align: center;
+            
+        }    
+    
+    
+    .c{
+    grid-column:1/6;
+    grid-row:12/13;
+    background-color: tan;
+  
+}
+    
+    
+    
+ .d{
+    grid-column:1/6;
+    grid-row: 14/15;
+    background-color: tan;
+    padding-left: 30px;
+    font-size: 20px;
+    text-align: left;
+    padding-right: 30px; 
+
+     
+   
+}           
+    
+    
+}
+    
+    
+
+    
+  
+    
+    @media only screen and (min-width:1000px){
+    
+    #wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr 5px);
+  grid-template-rows: repeat(4,100px 5px);
+  margin-left: 100px;
+  margin-right: 100px 
+        }
+
+    
+    .box{   
+}
+   
+    
+    .a{
+    grid-column:1/6;
+    grid-row: 1/4;
+    background-image: url(../Images/leaves.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+     #img1{
+        text-align: center;
+            
+        }
+ 
+ .b{
+    grid-column:1/4;
+    grid-row: 4/10;
+    margin-top: 20px; 
+
+   
+}
+        
+ .fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+}      
+    
+    
+ .c{
+   grid-column:1/4;
+    grid-row: 10/12;
+    background-color:tan;
+    font-size:25px;
+    padding-left: 20px;
+    padding-right: 20px;
+     
+    
+
+     
+   
+}   
+  
+    
+.d{
+    grid-column:5/6;
+    grid-row: 5/12;
+    background-color:tan;
+    text-align: left;  
+    margin-top:20px;
+
+    
+  
+}
+
+    }
+      
+              
+footer{
+    min-height: 70px;
+    background-color:8A1D07;
+
+}
+        
+      ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+a:link, a:visited {
+    display:inline;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: left;
+    padding: 20px;
+    text-decoration:inherit;
+    text-transform: uppercase;
+    border-right:solid 1px #fff; 
+   
+            
+        }  
+       
