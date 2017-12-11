@@ -14,51 +14,86 @@ Usability Testing
 Questions Asked:
 
 Can you find the hours?
+
 Can you find what day are dedicated to maple?
+
 Any mistakes?
+
 What year was this company made?
-could you tell me the price for a cup of coffee?
+
+Could you tell me the price for a cup of coffee?
+
 Overall opinion? Any suggestions?
 
 Answers: 
 
 Magy- 
+
 Yes it was easy to find
+
 Yes i can, I like how there’s a lot going on 
+
 The word coffee is spelled wrong
+
 I don’t remember the exact year, but it was on the about page
+
 $1.50
+
 I liked the colors and the comfort feel. Text is too small on about page for the mobile view. But is really long and big on a computer. 
 
 Lana-
+
 Yes, luckily enough I didn’t have to go search through to find it
+
 Yes, I would just add more color besides yellow font
+
 Not that i noticed
+
 Ummm I didn’t read it 
+
 $1.50
+
 I would make the logo take you back to the homepage 
 
 Adel-
+
 Yeah
+
 Yeah
+
 No
+
 1953 
+
 $1.50
+
 Make the font bigger (for the mobile version)
 
 Elise-
+
 Yes: 6:30-10 and I think 7-11:30
+
 Yes mondays
+
 Yes! I like that its very filled 
+
 It was like 1950 something 
+
 $1.50 
+
 The font is really big, but overall I like it a lot, and its a pretty cheap place wish it was real. include the times on the footer or get rid of the footer it looks awkward
 
 John- 
+
 Yeah, really early in the morning, 6:30 and 7:30 on the weekends
+
 Yeah every Monday in December
-coupon is tiny on the computer
+
+Coupon is tiny on the computer
+
 1953
+
 $1.50
+
 I would’ve made the background to the logo a different color or transparent, it looks weird just being white
 
